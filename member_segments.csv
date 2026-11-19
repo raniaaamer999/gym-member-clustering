@@ -1,0 +1,331 @@
+member_id,segment,receives_credit,net_value,monthly_extras_spend
+50001,Class-focused members,no,0,38.0
+50002,Class-focused members,no,0,56.0
+50003,Long-tenured regulars,no,0,36.0
+50004,Frequent floor members,no,0,20.0
+50005,Frequent floor members,no,0,22.0
+50006,Frequent floor members,no,0,49.0
+50007,New light members,yes,5,6.0
+50008,Frequent floor members,no,0,16.0
+50009,New light members,yes,-10,21.0
+50010,Long-tenured regulars,no,0,18.0
+50011,Frequent floor members,no,0,32.0
+50012,Class-focused members,no,0,44.0
+50013,Frequent floor members,no,0,9.0
+50014,New light members,yes,5,3.0
+50015,Long-tenured regulars,no,0,13.0
+50016,New light members,yes,5,19.0
+50017,Long-tenured regulars,no,0,0.0
+50018,New light members,yes,5,5.0
+50019,Long-tenured regulars,no,0,9.0
+50020,Class-focused members,no,0,55.0
+50021,Long-tenured regulars,no,0,14.0
+50022,Class-focused members,no,0,46.0
+50023,Long-tenured regulars,no,0,0.0
+50024,New light members,yes,5,0.0
+50025,New light members,yes,5,0.0
+50026,Frequent floor members,no,0,8.0
+50027,Frequent floor members,no,0,14.0
+50028,New light members,yes,-10,25.0
+50029,Class-focused members,no,0,48.0
+50030,Long-tenured regulars,no,0,17.0
+50031,Class-focused members,no,0,36.0
+50032,Frequent floor members,no,0,8.0
+50033,New light members,yes,5,12.0
+50034,Class-focused members,no,0,47.0
+50035,New light members,yes,5,3.0
+50036,Frequent floor members,no,0,32.0
+50037,Long-tenured regulars,no,0,10.0
+50038,Long-tenured regulars,no,0,3.0
+50039,Class-focused members,no,0,29.0
+50040,Class-focused members,no,0,49.0
+50041,Class-focused members,no,0,56.0
+50042,Frequent floor members,no,0,44.0
+50043,Frequent floor members,no,0,7.0
+50044,Long-tenured regulars,no,0,21.0
+50045,Frequent floor members,no,0,36.0
+50046,New light members,yes,5,3.0
+50047,New light members,yes,5,1.0
+50048,Frequent floor members,no,0,37.0
+50049,Class-focused members,no,0,42.0
+50050,Long-tenured regulars,no,0,14.0
+50051,Frequent floor members,no,0,36.0
+50052,Frequent floor members,no,0,32.0
+50053,Long-tenured regulars,no,0,15.0
+50054,New light members,yes,5,3.0
+50055,Frequent floor members,no,0,22.0
+50056,New light members,yes,5,2.0
+50057,Class-focused members,no,0,58.0
+50058,New light members,yes,5,16.0
+50059,Frequent floor members,no,0,21.0
+50060,Class-focused members,no,0,43.0
+50061,Class-focused members,no,0,43.0
+50062,Class-focused members,no,0,53.0
+50063,Class-focused members,no,0,55.0
+50064,Frequent floor members,no,0,6.0
+50065,Frequent floor members,no,0,12.0
+50066,Class-focused members,no,0,55.0
+50067,Class-focused members,no,0,29.0
+50068,Frequent floor members,no,0,34.0
+50069,Frequent floor members,no,0,29.0
+50070,Frequent floor members,no,0,28.0
+50071,Frequent floor members,no,0,19.0
+50072,Frequent floor members,no,0,35.0
+50073,Class-focused members,no,0,45.0
+50074,Class-focused members,no,0,51.0
+50075,Frequent floor members,no,0,16.0
+50076,Class-focused members,no,0,61.0
+50077,New light members,yes,5,13.0
+50078,New light members,yes,5,9.0
+50079,Class-focused members,no,0,36.0
+50080,New light members,yes,5,6.0
+50081,Frequent floor members,no,0,36.0
+50082,Frequent floor members,no,0,24.0
+50083,Class-focused members,no,0,44.0
+50084,Frequent floor members,no,0,15.0
+50085,Long-tenured regulars,no,0,25.0
+50086,Long-tenured regulars,no,0,11.0
+50087,New light members,yes,-10,20.0
+50088,New light members,yes,5,19.0
+50089,New light members,yes,5,10.0
+50090,Frequent floor members,no,0,39.0
+50091,New light members,yes,5,9.0
+50092,Frequent floor members,no,0,46.0
+50093,Class-focused members,no,0,32.0
+50094,Class-focused members,no,0,47.0
+50095,Long-tenured regulars,no,0,21.0
+50096,Class-focused members,no,0,52.0
+50097,Frequent floor members,no,0,28.0
+50098,Frequent floor members,no,0,15.0
+50099,Frequent floor members,no,0,15.0
+50100,Frequent floor members,no,0,29.0
+50101,Long-tenured regulars,no,0,21.0
+50102,New light members,yes,5,0.0
+50103,Class-focused members,no,0,49.0
+50104,Class-focused members,no,0,55.0
+50105,Frequent floor members,no,0,15.0
+50106,Frequent floor members,no,0,14.0
+50107,Class-focused members,no,0,58.0
+50108,Long-tenured regulars,no,0,3.0
+50109,Frequent floor members,no,0,37.0
+50110,Frequent floor members,no,0,31.0
+50111,New light members,yes,5,15.0
+50112,Class-focused members,no,0,42.0
+50113,Long-tenured regulars,no,0,17.0
+50114,Class-focused members,no,0,24.0
+50115,Frequent floor members,no,0,25.0
+50116,Frequent floor members,no,0,42.0
+50117,Class-focused members,no,0,58.0
+50118,Class-focused members,no,0,33.0
+50119,Frequent floor members,no,0,13.0
+50120,Frequent floor members,no,0,14.0
+50121,Class-focused members,no,0,64.0
+50122,Frequent floor members,no,0,21.0
+50123,Class-focused members,no,0,58.0
+50124,Frequent floor members,no,0,18.0
+50125,New light members,yes,5,0.0
+50126,New light members,yes,-10,21.0
+50127,Class-focused members,no,0,52.0
+50128,Class-focused members,no,0,38.0
+50129,Frequent floor members,no,0,1.0
+50130,New light members,yes,5,4.0
+50131,Long-tenured regulars,no,0,7.0
+50132,Frequent floor members,no,0,16.0
+50133,Class-focused members,no,0,59.0
+50134,Long-tenured regulars,no,0,18.0
+50135,New light members,yes,5,13.0
+50136,Long-tenured regulars,no,0,11.0
+50137,Class-focused members,no,0,42.0
+50138,Long-tenured regulars,no,0,11.0
+50139,Frequent floor members,no,0,19.0
+50140,New light members,yes,5,0.0
+50141,New light members,yes,5,17.0
+50142,New light members,yes,5,7.0
+50143,Long-tenured regulars,no,0,17.0
+50144,Frequent floor members,no,0,26.0
+50145,Frequent floor members,no,0,31.0
+50146,Frequent floor members,no,0,20.0
+50147,New light members,yes,-10,29.0
+50148,Long-tenured regulars,no,0,21.0
+50149,Frequent floor members,no,0,16.0
+50150,Long-tenured regulars,no,0,0.0
+50151,Frequent floor members,no,0,17.0
+50152,Long-tenured regulars,no,0,24.0
+50153,Class-focused members,no,0,34.0
+50154,Class-focused members,no,0,34.0
+50155,Frequent floor members,no,0,36.0
+50156,Class-focused members,no,0,37.0
+50157,Frequent floor members,no,0,8.0
+50158,Frequent floor members,no,0,35.0
+50159,Long-tenured regulars,no,0,25.0
+50160,New light members,yes,5,0.0
+50161,Class-focused members,no,0,58.0
+50162,Long-tenured regulars,no,0,29.0
+50163,Long-tenured regulars,no,0,4.0
+50164,Class-focused members,no,0,53.0
+50165,Long-tenured regulars,no,0,24.0
+50166,Frequent floor members,no,0,14.0
+50167,Frequent floor members,no,0,10.0
+50168,Class-focused members,no,0,35.0
+50169,Class-focused members,no,0,69.0
+50170,Frequent floor members,no,0,19.0
+50171,Long-tenured regulars,no,0,39.0
+50172,Frequent floor members,no,0,40.0
+50173,Frequent floor members,no,0,12.0
+50174,Class-focused members,no,0,66.0
+50175,Frequent floor members,no,0,10.0
+50176,New light members,yes,5,15.0
+50177,Frequent floor members,no,0,34.0
+50178,Frequent floor members,no,0,33.0
+50179,New light members,yes,5,5.0
+50180,Frequent floor members,no,0,33.0
+50181,Frequent floor members,no,0,18.0
+50182,Frequent floor members,no,0,35.0
+50183,Class-focused members,no,0,41.0
+50184,Class-focused members,no,0,78.0
+50185,Frequent floor members,no,0,40.0
+50186,New light members,yes,5,17.0
+50187,New light members,yes,5,0.0
+50188,New light members,yes,5,1.0
+50189,Frequent floor members,no,0,22.0
+50190,Frequent floor members,no,0,45.0
+50191,Class-focused members,no,0,52.0
+50192,New light members,yes,5,2.0
+50193,Class-focused members,no,0,49.0
+50194,Class-focused members,no,0,69.0
+50195,Class-focused members,no,0,54.0
+50196,Long-tenured regulars,no,0,8.0
+50197,New light members,yes,5,8.0
+50198,New light members,yes,5,13.0
+50199,New light members,yes,5,9.0
+50200,New light members,yes,5,11.0
+50201,Class-focused members,no,0,30.0
+50202,Class-focused members,no,0,69.0
+50203,Long-tenured regulars,no,0,7.0
+50204,New light members,yes,-10,22.0
+50205,Frequent floor members,no,0,18.0
+50206,Long-tenured regulars,no,0,25.0
+50207,Long-tenured regulars,no,0,18.0
+50208,Long-tenured regulars,no,0,27.0
+50209,New light members,yes,5,0.0
+50210,Frequent floor members,no,0,33.0
+50211,Long-tenured regulars,no,0,35.0
+50212,Frequent floor members,no,0,39.0
+50213,New light members,yes,5,0.0
+50214,Class-focused members,no,0,55.0
+50215,New light members,yes,-10,20.0
+50216,New light members,yes,5,0.0
+50217,Long-tenured regulars,no,0,35.0
+50218,Class-focused members,no,0,76.0
+50219,Frequent floor members,no,0,2.0
+50220,Frequent floor members,no,0,42.0
+50221,New light members,yes,5,5.0
+50222,Long-tenured regulars,no,0,2.0
+50223,Long-tenured regulars,no,0,2.0
+50224,New light members,yes,5,0.0
+50225,Long-tenured regulars,no,0,12.0
+50226,Frequent floor members,no,0,32.0
+50227,Frequent floor members,no,0,41.0
+50228,Frequent floor members,no,0,25.0
+50229,Frequent floor members,no,0,24.0
+50230,Class-focused members,no,0,43.0
+50231,Frequent floor members,no,0,17.0
+50232,Frequent floor members,no,0,26.0
+50233,Frequent floor members,no,0,29.0
+50234,Long-tenured regulars,no,0,9.0
+50235,New light members,yes,5,15.0
+50236,Class-focused members,no,0,60.0
+50237,Class-focused members,no,0,36.0
+50238,Long-tenured regulars,no,0,14.0
+50239,New light members,yes,5,0.0
+50240,Frequent floor members,no,0,8.0
+50241,New light members,yes,5,0.0
+50242,Frequent floor members,no,0,11.0
+50243,Long-tenured regulars,no,0,22.0
+50244,New light members,yes,5,16.0
+50245,New light members,yes,5,10.0
+50246,Long-tenured regulars,no,0,23.0
+50247,Class-focused members,no,0,33.0
+50248,Frequent floor members,no,0,30.0
+50249,Long-tenured regulars,no,0,14.0
+50250,Frequent floor members,no,0,31.0
+50251,Long-tenured regulars,no,0,4.0
+50252,Class-focused members,no,0,51.0
+50253,Frequent floor members,no,0,11.0
+50254,Class-focused members,no,0,31.0
+50255,Class-focused members,no,0,43.0
+50256,Class-focused members,no,0,67.0
+50257,New light members,yes,-10,25.0
+50258,Class-focused members,no,0,25.0
+50259,Frequent floor members,no,0,29.0
+50260,Frequent floor members,no,0,47.0
+50261,New light members,yes,-10,27.0
+50262,New light members,yes,5,1.0
+50263,New light members,yes,5,10.0
+50264,Long-tenured regulars,no,0,18.0
+50265,Frequent floor members,no,0,23.0
+50266,Long-tenured regulars,no,0,21.0
+50267,Long-tenured regulars,no,0,30.0
+50268,Frequent floor members,no,0,36.0
+50269,Long-tenured regulars,no,0,4.0
+50270,Frequent floor members,no,0,16.0
+50271,Class-focused members,no,0,40.0
+50272,Long-tenured regulars,no,0,11.0
+50273,Class-focused members,no,0,58.0
+50274,New light members,yes,5,0.0
+50275,Frequent floor members,no,0,29.0
+50276,Class-focused members,no,0,42.0
+50277,Frequent floor members,no,0,36.0
+50278,New light members,yes,5,6.0
+50279,Frequent floor members,no,0,9.0
+50280,Class-focused members,no,0,27.0
+50281,New light members,yes,5,0.0
+50282,Class-focused members,no,0,44.0
+50283,Long-tenured regulars,no,0,30.0
+50284,Class-focused members,no,0,64.0
+50285,New light members,yes,5,0.0
+50286,Frequent floor members,no,0,8.0
+50287,New light members,yes,-10,21.0
+50288,Class-focused members,no,0,24.0
+50289,Frequent floor members,no,0,42.0
+50290,Class-focused members,no,0,43.0
+50291,Long-tenured regulars,no,0,0.0
+50292,Class-focused members,no,0,63.0
+50293,New light members,yes,5,9.0
+50294,Long-tenured regulars,no,0,37.0
+50295,Class-focused members,no,0,35.0
+50296,Class-focused members,no,0,19.0
+50297,Long-tenured regulars,no,0,33.0
+50298,Class-focused members,no,0,44.0
+50299,Frequent floor members,no,0,27.0
+50300,Frequent floor members,no,0,23.0
+50301,Frequent floor members,no,0,29.0
+50302,New light members,yes,5,5.0
+50303,Frequent floor members,no,0,16.0
+50304,Frequent floor members,no,0,24.0
+50305,Long-tenured regulars,no,0,28.0
+50306,Class-focused members,no,0,47.0
+50307,Frequent floor members,no,0,17.0
+50308,Class-focused members,no,0,38.0
+50309,Frequent floor members,no,0,31.0
+50310,Long-tenured regulars,no,0,14.0
+50311,Frequent floor members,no,0,16.0
+50312,Frequent floor members,no,0,43.0
+50313,Class-focused members,no,0,47.0
+50314,Frequent floor members,no,0,19.0
+50315,Class-focused members,no,0,61.0
+50316,New light members,yes,5,16.0
+50317,Class-focused members,no,0,38.0
+50318,Frequent floor members,no,0,22.0
+50319,Frequent floor members,no,0,29.0
+50320,Class-focused members,no,0,51.0
+50321,Class-focused members,no,0,32.0
+50322,Class-focused members,no,0,48.0
+50323,Class-focused members,no,0,34.0
+50324,New light members,yes,-10,32.0
+50325,Class-focused members,no,0,50.0
+50326,Long-tenured regulars,no,0,0.0
+50327,New light members,yes,5,4.0
+50328,Class-focused members,no,0,58.0
+50329,New light members,yes,5,15.0
+50330,Class-focused members,no,0,34.0
